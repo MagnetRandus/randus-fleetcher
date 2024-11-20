@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-fleet-a-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spFleetA/SpFleetAWebPart.js",
+          "manifest": "./src/webparts/spFleetA/SpFleetAWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SpFleetAWebPartStrings": "lib/webparts/spFleetA/loc/{locale}.js"
+  }
+}

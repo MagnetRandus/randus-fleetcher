@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.20.4",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "randus-fleetcher",
+    "libraryId": "5e720d0c-51a9-4430-9c27-d33df3189f99",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "randus-fleetcher",
+    "solutionShortDescription": "randus-fleetcher description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

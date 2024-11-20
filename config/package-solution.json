@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "randus-fleetcher-client-side-solution",
+    "id": "5e720d0c-51a9-4430-9c27-d33df3189f99",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "randus-fleetcher description"
+      },
+      "longDescription": {
+        "default": "randus-fleetcher description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "randus-fleetcher Feature",
+        "description": "The feature that activates elements of the randus-fleetcher solution.",
+        "id": "7d0fa266-c7cd-4793-b287-eb709edcb82e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/spfleetA.sppkg"
+  }
+}
