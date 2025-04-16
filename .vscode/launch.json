@@ -5,7 +5,7 @@
       "name": "WB",
       "type": "msedge",
       "request": "launch",
-      "url": "https://atarendt.sharepoint.com/sites/fleet/_layouts/workbench.aspx?env=Embedded&debug=true&noredir=true&debugManifestsFile=https://localhost:4321/temp/manifests.js",
+      "url": "https://nodomain.sharepoint.com/sites/fleet/_layouts/workbench.aspx?env=Embedded&debug=true&noredir=true&debugManifestsFile=https://localhost:4321/temp/manifests.js",
       "webRoot": "${workspaceRoot}",
       "sourceMaps": true,
       "sourceMapPathOverrides": {
@@ -20,7 +20,7 @@
       "name": "GoBug",
       "type": "msedge",
       "request": "launch",
-      "url": "https://atarendt.sharepoint.com/sites/fleet/SitePages/FleetCher.aspx?env=Embedded&debugManifestsFile=https%3A%2F%2Flocalhost%3A4321%2Ftemp%2Fmanifests.js&loadSPFX=true&customActions=%7B%2248352a2f-a243-4f39-838a-de8e08c00be0%22%3A%7B%22location%22%3A%22ClientSideExtension.ApplicationCustomizer%22%2C%22properties%22%3A%7B%22Bottom%22%3A%22Fleet+Management%22%7D%7D%7D",
+      "url": "https://nodomain.sharepoint.com/sites/fleet/SitePages/FleetCher.aspx?env=Embedded&debugManifestsFile=https%3A%2F%2Flocalhost%3A4321%2Ftemp%2Fmanifests.js&loadSPFX=true&customActions=%7B%2248352a2f-a243-4f39-838a-de8e08c00be0%22%3A%7B%22location%22%3A%22ClientSideExtension.ApplicationCustomizer%22%2C%22properties%22%3A%7B%22Bottom%22%3A%22Fleet+Management%22%7D%7D%7D",
       "webRoot": "${workspaceRoot}",
       "sourceMaps": true,
       "sourceMapPathOverrides": {
@@ -36,7 +36,7 @@
       "name": "GoBug NoBed",
       "type": "msedge",
       "request": "launch",
-      "url": "https://atarendt.sharepoint.com/sites/fleet/SitePages/CollabHome.aspx?debugManifestsFile=https%3A%2F%2Flocalhost%3A4321%2Ftemp%2Fmanifests.js&loadSPFX=true&customActions=%7B%2248352a2f-a243-4f39-838a-de8e08c00be0%22%3A%7B%22location%22%3A%22ClientSideExtension.ApplicationCustomizer%22%2C%22properties%22%3A%7B%22Bottom%22%3A%22Fleet+Management%22%7D%7D%7D",
+      "url": "https://nodomain.sharepoint.com/sites/fleet/SitePages/CollabHome.aspx?debugManifestsFile=https%3A%2F%2Flocalhost%3A4321%2Ftemp%2Fmanifests.js&loadSPFX=true&customActions=%7B%2248352a2f-a243-4f39-838a-de8e08c00be0%22%3A%7B%22location%22%3A%22ClientSideExtension.ApplicationCustomizer%22%2C%22properties%22%3A%7B%22Bottom%22%3A%22Fleet+Management%22%7D%7D%7D",
       "webRoot": "${workspaceRoot}",
       "sourceMaps": true,
       "sourceMapPathOverrides": {
